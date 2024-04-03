@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amirul Farhan - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: purple;
+            padding: 20px 0;
+            text-align: center;
+            color: white;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: purple;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Amirul Farhan</h1>
+        <p>Marketing Professional | Tech Enthusiast | Bookworm</p>
+    </header>
+
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Hello there! I'm Amirul Farhan, a marketing professional passionate about advertising and exploring new strategies. In my free time, you'll often find me engrossed in the latest tech developments or immersed in a good book.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Amirul Farhan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
